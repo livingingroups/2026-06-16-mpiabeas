@@ -183,6 +183,8 @@ This block displays the date and links to Google Calendar.
 </p>
 {% endif %}
 
+<p><strong>Registration:</strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSd4uZrLrghbFCCZT2AjANh0_y_LDpzufXYzHg277d33BEL9Mw/viewform"> Click Here </a></p>
+
 {% comment %}
 SPECIAL REQUIREMENTS
 
